@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Sanket-Banerjee Blog',
-  domain: '/',
+  domain: 'https://sanketbanerjee-blog.vercel.app/',
   author: 'Sanket Banerjee',
 
   // open graph metadata (optional)

@@ -15,7 +15,6 @@ export default siteConfig({
 
   // open graph metadata (optional)
   description: 'Sanket Banerjee Blog Site',
-  siteUrl: 'https://sanketbanerjee-blog.vercel.app/', // No trailing slash allowed!
   image: 'https://github.com/Sanket2004/nextjs-notion-starter-kit/blob/main/blog_page-0001%20(1).jpg?raw=true', 
   url:'https://github.com/Sanket2004/nextjs-notion-starter-kit/blob/main/blog_page-0001%20(1).jpg?raw=true',
   twitterUsername: '@SanketBanerjee15',

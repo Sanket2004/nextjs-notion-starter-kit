@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Sanket Banerjee Blog Site',
   content: "Learn Coding from Scratch🌐!",
   siteUrl: 'https://sanketbanerjee-blog.vercel.app/', // No trailing slash allowed!
-  image: 'https://github.com/Sanket2004/nextjs-notion-starter-kit/blob/main/blog_page-0001%20(1).jpg?raw=true', // Path to your image you placed in the 'static' folder
+  image: 'https://github.com/Sanket2004/nextjs-notion-starter-kit/blob/main/blog_page-0001%20(1).jpg?raw=true', 
   url:'https://github.com/Sanket2004/nextjs-notion-starter-kit/blob/main/blog_page-0001%20(1).jpg?raw=true',
   twitterUsername: '@SanketBanerjee15',
 

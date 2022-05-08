@@ -15,7 +15,6 @@ export default siteConfig({
 
   // open graph metadata (optional)
   description: 'Sanket Banerjee Blog Site',
-  title: 'Programming Knowledge',
   content: "Learn Coding from Scratch🌐!",
   siteUrl: 'https://sanketbanerjee-blog.vercel.app/', // No trailing slash allowed!
   image: 'https://github.com/Sanket2004/nextjs-notion-starter-kit/blob/main/blog_page-0001%20(1).jpg?raw=true', // Path to your image you placed in the 'static' folder

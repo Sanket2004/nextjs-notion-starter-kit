@@ -1,7 +1,7 @@
 export * from './NotionPage'
 export * from './Page404'
 export * from './ErrorPage'
-<!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
+/* Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree */
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
   /* paste this line in verbatim */

@@ -166,6 +166,8 @@
   display: block;
   text-align: center;
   font-size: 1.6em;
+  font-family: 'Lexend', sans-serif;
+  font-weight: 600;
 }
 
 .notion-collection-row {
